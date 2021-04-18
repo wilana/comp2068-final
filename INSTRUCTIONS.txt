@@ -1,0 +1,25 @@
+OBJECTIVE:
+  To demonstrate your understanding of Node, ReSTful APIs, and the MVC pattern.
+
+ALLOWANCES:
+  - Internet
+  - Notes
+  - You may also chat with each other
+
+IMPORTANT NOTES:
+  - You're going to need to install the node modules
+  - You're going to need to add your Mongo details to the .env file
+  - I will NOT assist you with these basic steps
+  - Test starts at 3pm. You have 3 hours to complete it.
+
+REQUIREMENTS:
+  1) (0 - 75 points): Fix the artist model and complete all steps
+  2) (0 - 50 points): Fix the song model and complete all steps
+  3) (0 - 305 points): Fix the artists controller and complete all steps
+  4) (0 - 160 points): Fix the songs controller and complete all steps
+  5) (0 - 150 points): Fix the artist routes and complete all steps
+  6) (0 - 150 points): Fix the song routes and complete all steps
+  7) (50 points): Push to Github and provide the link in D2L
+  8) (0 - 100 points): Application works end-to-end
+----------------------------------------------------------------
+Totals: 1040 points (including the bonus of 45 points)
